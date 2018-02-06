@@ -1,0 +1,31 @@
+
+# Stanford
+# Knowledge Base Population
+https://nlp.stanford.edu/projects/kbp/ 
+
+# Multi-instance Multi-label Relation Extraction (Software)
+https://nlp.stanford.edu/software/mimlre.shtml
+
+# Multi-instance Multi-label Learning for Relation Extraction (Paper)
+https://nlp.stanford.edu/pubs/emnlp2012-mimlre.pdf
+
+# Stanford’s Distantly-Supervised Slot-Filling System
+https://nlp.stanford.edu/pubs/kbp2011-slotfilling.pdf
+
+# Table Filling Multi-Task Recurrent Neural Network for Joint Entity and Relation Extraction
+http://www.aclweb.org/anthology/C16-1239 
+
+# Code: Convolutional Neural Network for Multi-label Multi-instance Relation Extraction in Tensorflow
+https://github.com/may-/cnn-re-tf
+
+# Comparing Convolutional Neural Networks to Traditional Models for Slot Filling
+https://arxiv.org/pdf/1603.05157.pdf
+
+# Relation Extraction: Perspective from Convolutional Neural Networks
+https://cs.nyu.edu/~thien/pubs/vector15.pdf
+
+# Neural Relation Extraction with Selective Attention over Instances
+http://www.aclweb.org/anthology/P/P16/P16-1200.pdf
+
+# Generalisation in Named Entity Recognition: A Quantitative Analysis
+https://arxiv.org/pdf/1701.02877.pdf
