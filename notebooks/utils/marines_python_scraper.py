@@ -5,10 +5,10 @@ import numpy as np
 
 # setup 
 # nlp = spacy.load('en_core_web_sm')
-matcher = Matcher(nlp.vocab)
-matcher.add('court-martial', None,
-            [{}, {'LOWER': 'court'}, {'IS_PUNCT': True}, {'LOWER': 'martial'}],
-            [{}, {'LOWER': 'court'}, {'LOWER': 'martial'}])
+# matcher = Matcher(nlp.vocab)
+# matcher.add('court-martial', None,
+#             [{}, {'LOWER': 'court'}, {'IS_PUNCT': True}, {'LOWER': 'martial'}],
+#             [{}, {'LOWER': 'court'}, {'LOWER': 'martial'}])
 
 states =['Alaska', 'Alabama', 'Arkansas', 'American Samoa', 'Arizona', 'California', 'Colorado', 'Connecticut',
          'District of Columbia', 'Delaware', 'Florida', 'Georgia', 'Guam', 'Hawaii', 'Iowa', 'Idaho',
@@ -19,8 +19,8 @@ states =['Alaska', 'Alabama', 'Arkansas', 'American Samoa', 'Arizona', 'Californ
          'South Dakota', 'Tennessee', 'Texas', 'Utah', 'Virginia', 'Virgin Islands', 'Vermont', 'Washington',
          'Wisconsin', 'West Virginia', 'Wyoming']
 
-matcher.add('state', None,
-            *[[{'LOWER': state.lower()}] for state in states])
+# matcher.add('state', None,
+#             *[[{'LOWER': state.lower()}] for state in states])
 
 rank_re = (
     "\,\s[A-Z]{2,5}[0-9]{0,2}\s|"
