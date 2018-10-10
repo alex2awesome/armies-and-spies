@@ -1,0 +1,26 @@
+Bureau of Justice Statistics,,,,
+Filename:cv16at03.csv,,,,
+"Appendix Table 3. Estimates and standard errors for figure 2: Violent victimization, 2007–2016",,,,
+"Report title: Criminal Victimization, 2016",,,,
+"Data source: Bureau of Justice Statistics, National Crime Victimization Survey, 2007–2016; and U.S. Census Bureau, National Crime Victimization Survey Internal Data, 2016.",,,,
+"Author(s): Rachel E. Morgan, Ph.D., and Grace Kena, BJS Statisticians",,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,
+Date of version: 11/30/2017,,,,
+,,,,
+"Appendix Table 3. Estimates and standard errors for figure 2: Violent victimization, 2007–2016",,,,
+,,,,
+,,,95% confidence interval,
+Year,"Rate per 1,000 persons age 12 or older",Standard error,Lower bound,Upper bound
+,,,,
+2007,27.2,1.55,24.18,30.26
+2008,25.3,1.6,22.21,28.49
+2009,22.3,1.31,19.74,24.88
+2010,19.3,1.44,16.46,22.11
+2011,22.6,1.38,19.86,25.28
+2012,26.1,1.2,23.77,28.46
+2013,23.2,1.62,20,26.34
+2014,20.1,1.22,17.7,22.5
+2015,18.6,1.16,16.31,20.85
+2016 new counties,24.2,1.26,21.73,26.67
+2016 continuing counties,19.5,1.2,17.15,21.85
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 2007–2016; and U.S. Census Bureau, National Crime Victimization Survey Internal Data, 2016.",,,,

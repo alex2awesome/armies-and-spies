@@ -1,0 +1,23 @@
+Bureau of Justice Statistics,,,,
+Filename:cv16t12.csv,,,,
+"Table 12. Rate of victimization in new, continuing, and total sample counties, 2016",,,,
+"Report title: Criminal Victimization, 2016",,,,
+"Data source: Bureau of Justice Statistics, National Crime Victimization Survey (NCVS), 2016; and U.S. Census Bureau, National Crime Victimization Survey Internal Data, 2016. ",,,,
+"Author(s): Rachel E. Morgan, Ph.D., and Grace Kena, BJS Statisticians",,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,
+Date of version: 11/30/2017,,,,
+,,,,
+"Table 12. Rate of victimization in new, continuing, and total sample counties, 2016",,,,
+,,,,
+Type of crime,New sample counties*,Continuing sample counties,,Total sample counties
+,,,,
+Total violent crime/a,24.2,19.5, †,21.1
+Serious violent crime/b,7.5,6.8,,7
+Total property crime/c,130,113.9, †,119.4
+"Note: Victimization rates are per 1,000 persons age 12 or older for violent crime and per 1,000 households for property crime. See appendix table 16 for standard errors.",,,,
+*Comparison group. 2016 new sample counties are compared to 2016 continuing sample counties.,,,,
+†Significant difference from comparison group at 95% confidence level.,,,,
+"a/Includes rape or sexual assault, robbery, aggravated assault, and simple assault.",,,,
+"b/In the NCVS, serious violent crime is a subset of violent crime and includes rape or sexual assault, robbery, and aggravated assault. ",,,,
+"c/Includes household burglary, theft, and motor vehicle theft.",,,,
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey (NCVS), 2016; and U.S. Census Bureau, National Crime Victimization Survey Internal Data, 2016. ",,,,

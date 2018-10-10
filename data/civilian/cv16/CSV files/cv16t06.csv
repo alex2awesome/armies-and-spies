@@ -1,0 +1,42 @@
+Bureau of Justice Statistics,,,,,,
+Filename:cv16t06.csv,,,,,,
+"Table 6. Rate of victimization reported and not reported to police, by type of crime, 2016",,,,,,
+"Report title: Criminal Victimization, 2016",,,,,,
+"Data source: Bureau of Justice Statistics, National Crime Victimization Survey (NCVS), 2016.",,,,,,
+"Author(s): Rachel E. Morgan, Ph.D., and Grace Kena, BJS Statisticians",,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,
+Date of version: 11/30/2017,,,,,,
+,,,,,,
+"Table 6. Rate of victimization reported and not reported to police, by type of crime, 2016",,,,,,
+,,,,,,
+Type of crime,,,Reported to police*,,Not reported to police,
+Violent crime/a,,,8.9,,11.8, †
+,Rape or sexual assault/b,,0.3,,0.9, †
+,Robbery,,1,,0.7, 
+,Assault,,7.6,,10.2, †
+,,Aggravated assault,2.3,,1.6, †
+,,Simple assault,5.3,,8.6, †
+,Domestic violence/c,,2,,1.9,
+,,Intimate partner violence/d,1,,1.1,
+,Stranger violence,,3.7,,4.4,
+,Violent crime involving injury,,2.4,,2.5,
+Serious violent crime/e,,,3.6,,3.2,
+,Serious domestic violence/c,,0.8,,0.6,
+,,Serious intimate partner violence/d,0.5,,0.5,
+,Serious stranger violence,,1.7,,1.2, ‡
+,Serious violent crime involving a weapon,,2.8,,1.7, †
+,Serious violent crime involving injury,,1.4,,1.3,
+Property crime,,,42.6,,75.2, †
+,Household burglary,,12.3,,12.1,
+,Motor vehicle theft,,3.5,,0.8, †
+,Theft,,26.9,,62.3, †
+"Note: Violent crime classifications include rape or sexual assault, robbery, aggravated assault, and simple assault. Other violent crime categories in this table, including domestic violence and violent crime involving injury, are not mutually exclusive from these classifications. Victimization rates are per 1,000 persons age 12 or older for violent crime or per 1,000 households for property crime. See appendix table 9 for standard errors.",,,,,,
+*Comparison group.,,,,,,
+†Significant difference from comparison group at 95% confidence level.,,,,,,
+‡Significant difference from comparison group at 90% confidence level.,,,,,,
+a/Excludes homicide because the NCVS is based on interviews with victims and cannot measure murder.,,,,,,
+b/See Methodology for details on the measurement of rape and sexual assault in the NCVS.,,,,,,
+c/Includes victimization committed by intimate partners and family members. ,,,,,,
+"d/Includes victimization committed by current or former spouses, boyfriends, or girlfriends.",,,,,,
+"e/In the NCVS, serious violent crime is a subset of violent crime and includes rape or sexual assault, robbery, and aggravated assault.",,,,,,
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey (NCVS), 2016.",,,,,,

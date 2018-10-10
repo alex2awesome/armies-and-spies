@@ -1,0 +1,34 @@
+Bureau of Justice Statistics,,,,
+Filename:cv16at05.csv,,,,
+"Appendix Table 5. Standard errors for table 2: Violent and property victimization, by type of crime, 2016",,,,
+"Report title: Criminal Victimization, 2016",,,,
+"Data source: Bureau of Justice Statistics, National Crime Victimization Survey, 2016.",,,,
+"Author(s): Rachel E. Morgan, Ph.D., and Grace Kena, BJS Statisticians",,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,
+Date of version: 11/30/2017,,,,
+,,,,
+"Appendix Table 5. Standard errors for table 2: Violent and property victimization, by type of crime, 2016",,,,
+,,,,
+Type of violent crime,,,Number,"Rate per 1,000"
+,,,,
+Violent crime,,,"258,919",0.95
+,Rape/sexual assault,,"41,162",0.15
+,Robbery,,"53,841",0.2
+,Assault,,"233,961",0.86
+,,Aggravated assault,"87,571",0.32
+,,Simple assault,"198,788",0.73
+,Domestic violence,,"109,468",0.4
+,,Intimate partner violence,"71,779",0.26
+,Stranger violence,,"177,138",0.65
+,Violent crime involving injury,,"126,288",0.46
+Serious violent crime,,,"125,986",0.46
+,Serious domestic violence,,"54,970",0.2
+,,Serious intimate partner violence,"42,377",0.16
+,Serious stranger violence,,"86,719",0.32
+,Serious violent crime involving a weapon,,"119,959",0.44
+,Serious violent crime involving injury,,"83,508",0.31
+Property crime,,,"292,273",2.19
+,Burglary,,"126,041",0.95
+,Motor vehicle theft,,"49,782",0.37
+,Theft,,"253,147",1.9
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 2016.",,,,

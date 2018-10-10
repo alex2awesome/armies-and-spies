@@ -1,0 +1,52 @@
+Bureau of Justice Statistics,,,,,,,,,,
+Filename:cv16t08.csv,,,,,,,,,,
+"Table 8. Rate of violent victimization and serious violent victimization and percent reported to police, by demographic characteristics of victims, 2016",,,,,,,,,,
+"Report title: Criminal Victimization, 2016",,,,,,,,,,
+"Data source: Bureau of Justice Statistics, based on internal data from the U.S. Census Bureau, National Crime Victimization Survey (NCVS), 2015–2016. ",,,,,,,,,,
+"Author(s): Rachel E. Morgan, Ph.D., and Grace Kena, BJS Statisticians",,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,,,
+Date of version: 11/30/2017,,,,,,,,,,
+,,,,,,,,,,
+"Table 8. Rate of violent victimization and serious violent victimization and percent reported to police, by demographic characteristics of victims, 2016",,,,,,,,,,
+,,,,,,,,,,
+,,"Rate of total violence per 1,000 persons age 12 or older",,,,,Percent of violence reported to police,,,
+Victim demographic characteristic,,Violent crime/a,,Serious violent crime/b,,,Violent crime/a,,Serious violent crime/b,
+,Total,21.1,,7,,,42.1,%,51.3,%
+Sex,,,,,,,,,,
+,Male*,21.4,,6.5,,,44.3,%,60.5,%
+,Female,20.8,,7.5,,,40,,43.7, †
+Race/Hispanic origin/c,,,,,,,,,,
+,White,20.5,,6.3,,,40.1,%,45,% †
+,Black*,24.1,,8.2,,,39.8,,59.8,
+,Hispanic,20.2,,8.2,,,51.6, †,64.8,
+,Other/d,23,,8.5,,,42.9,,47.8,
+Age,,,,,,,,,,
+,12–17,30.9,,8.6,,,27.7,%,48.1,%
+,18–24*,30.9,,11,,,35.7,,51.5,
+,25–34,31.8,,12.8,,,38.9,,37.8, ‡
+,35–49,22.9, †,6.8, †,,49.8, †,58.6,
+,50–64,16.1, †,5.2, †,,49.1, †,65.2, ‡
+,65 or older,4.4, †,1.1, †,,60.4, †,62, 
+Marital status,,,,,,,,,,
+,Never married*,29.8,,10.7,,,33.5,%,45.8,%
+,Married,12.4, †,3.3, †,,50.8, †,62.9, †
+,Widowed,10.7, †,2.6, †,,48.1, ‡,60.5,
+,Divorced,30.1,,11.9,,,53.8, †,56,
+,Separated,67.5, †,20, †,,43.2,,39.7,
+Household income,,,,,,,,,,
+,"Less than $10,000*",35.8,,13,,,47.3,%,37.3,%
+,"$10,000–$14,999",35.6,,13.9,,,50.2,,54.8, ‡
+,"$15,000–$24,999",32.9,,14,,,45.3,,52, ‡
+,"$25,000–$34,999",21, †,6.3, †,,44.2,,57.9, †
+,"$35,000–$49,999",20.4, †,6.8, †,,34, †,43.9,
+,"$50,000–$74,999",17.6, †,5.8, †,,42.4,,57.1, †
+,"$75,000 or more",15.7, †,4.1, †,,39.4,,54.3, †
+"Note: Victimization rates are per 1,000 persons age 12 or older. See appendix table 11 for standard errors.",,,,,,,,,,
+*Comparison group.,,,,,,,,,,
+†Significant difference from comparison group at 95% confidence level.,,,,,,,,,,
+‡Significant difference from comparison group at 90% confidence level.,,,,,,,,,,
+"a/Includes rape or sexual assault, robbery, aggravated assault, and simple assault. Excludes homicide because the NCVS is based on interviews with victims and cannot measure murder.",,,,,,,,,,
+"b/In the NCVS, serious violent crime is a subset of violent crime and includes rape or sexual assault, robbery, and aggravated assault.",,,,,,,,,,
+"c/White, black, and other race categories exclude persons of Hispanic or Latino origin.",,,,,,,,,,
+"d/Includes American Indian or Alaska Native; Asian, Native Hawaiian, or Other Pacific Islander; and persons of two or more races.",,,,,,,,,,
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey (NCVS), 2016.",,,,,,,,,,

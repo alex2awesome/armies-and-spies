@@ -1,0 +1,43 @@
+Bureau of Justice Statistics,,,,,,
+Filename:cv16t10.csv,,,,,,
+"Table 10. Number of victims and prevalence rate, by type of crime, 2016",,,,,,
+"Report title: Criminal Victimization, 2016",,,,,,
+"Data source: Bureau of Justice Statistics, National Crime Victimization Survey (NCVS), 2016.",,,,,,
+"Author(s): Rachel E. Morgan, Ph.D., and Grace Kena, BJS Statisticians",,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,
+Date of version: 11/30/2017,,,,,,
+,,,,,,
+"Table 10. Number of victims and prevalence rate, by type of crime, 2016",,,,,,
+,,,,,,
+Type of crime,,,Number/a,,Prevalence rate/b,
+Violent crime/c,,,"3,629,180",,1.33,%
+,Rape or sexual assault,,"205,680", †,0.08, †
+,Robbery,,"417,190", †,0.15, †
+,Assault,,"3,136,760",,1.15,
+,,Aggravated assault,"784,600", †,0.29, †
+,,Simple assault*,"2,450,840",,0.9,
+,Domestic violence/d,,"630,720",,0.23,
+,,Intimate partner violence/e,"309,030",,0.11,
+,Stranger violence,,"1,588,430",,0.58,
+,Violent crime involving injury,,"864,900",,0.32,
+Serious violent crime/f,,,"1,354,370",,0.5,%
+,Serious domestic violence/d,,"246,360",,0.09,
+,,Serious intimate partner violence/e,"146,310",,0.05,
+,Serious stranger violence,,"627,310",,0.23,
+,Serious violent crime involving a weapon,,"896,350",,0.33,
+,Serious violent crime involving injury,,"509,680",,0.19,
+Property crime,,,"11,715,650",,8.79,%
+,Household burglary,,"2,569,980", †,1.93, †
+,Motor vehicle theft,,"546,180", †,0.41, †
+,Theft**,,"9,323,510",,7,
+"Note: Violent crime classifications include rape or sexual assault, robbery, aggravated assault, and simple assault. Other violent crime categories in this table, including domestic violence and violent crime involving injury, are not mutually exclusive from these classifications. Detail may not sum to total because a person or household may experience multiple types of crime. See appendix table 14 for standard errors.",,,,,,
+"*Comparison group for violent crime. Simple assault is compared to rape or sexual assault, robbery, and aggravated assault.",,,,,,
+**Comparison group for property crime.,,,,,,
+†Significant difference from comparison group at 95% confidence level.,,,,,,
+"a/Number of persons age 12 or older who experienced at least one victimization during the year for violent crime, and number of households that experienced at least one victimization during the year for property crime.",,,,,,
+"b/Percent of persons age 12 or older who experienced at least one victimization during the year for violent crime, and percent of households that experienced at least one victimization during the year for property crime.",,,,,,
+c/Excludes homicide because the NCVS is based on interviews with victims and cannot measure murder.,,,,,,
+d/Includes victimization committed by intimate partners and family members.,,,,,,
+"e/Includes victimization committed by current or former spouses, boyfriends, or girlfriends.",,,,,,
+"f/In the NCVS, serious violent crime is a subset of violent crime and includes rape or sexual assault, robbery, and aggravated assault.",,,,,,
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey (NCVS), 2016.",,,,,,
